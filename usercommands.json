@@ -1,10 +1,11 @@
 {
+"R*EUFPL": "ritual",
+"SKWRAO*EUFPLT": "{^}Person 4: \"{^}{-|}",
 "SKWRAO*EURBGS": "{^}Person 2: \"{^}{-|}",
+"SKWRAOEUFPLT": "{^}\"{#Return}{^}Person 4: \"{^}{-|}",
 "SKWRAOEURBGS": "{^}\"{#Return}{^}Person 2: \"{^}{-|}",
 "STPHAO*EUFPLT": "{^}Person 1: \"{^}{-|}",
-"STPHAOEUFPLT": "{^}\"{#Return}{^}Person 1: \"{^}{-|}",
-"SKWRAO*EUFPLT": "{^}Person 4: \"{^}{-|}",
-"SKWRAOEUFPLT": "{^}\"{#Return}{^}Person 4: \"{^}{-|}",
 "STPHAO*EURBGS": "{^}Person 3: \"{^}{-|}",
+"STPHAOEUFPLT": "{^}\"{#Return}{^}Person 1: \"{^}{-|}",
 "STPHAOEURBGS": "{^}\"{#Return}{^}Person 3: \"{^}{-|}"
 }
